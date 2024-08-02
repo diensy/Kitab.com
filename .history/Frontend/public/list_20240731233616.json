@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"Java Basic Book",
+        "Author":"Barry A. Burd",
+        "title":"Beginning Programming with Java for Dummies, 5ed",
+        "price":0,
+        "category":"free",
+        "image":"/public/images/Java.webp"
+    },
+    {
+        "id":2,
+        "name":"Python Basic Book",
+        "Author":"Barry A. Burd",
+        "title":"Beginning Programming with Java for Dummies, 5ed",
+        "price":0,
+        "category":"free",
+        "image":"/public/images/Java.webp"
+    },
+    {
+        "id":3,
+        "name":"JavaScript Basic Book",
+        "Author":"Barry A. Burd",
+        "title":"Beginning Programming with Java for Dummies, 5ed",
+        "price":0,
+        "category":"free",
+        "image":"/public/images/Java.webp"
+    },
+    {
+        "id":4,
+        "name":"PHP Basic Book",
+        "Author":"Barry A. Burd",
+        "title":"Beginning Programming with Java for Dummies, 5ed",
+        "price":0,
+        "category":"paid",
+        "image":"/public/images/Java.webp"
+    },
+    {
+        "id":5,
+        "name":"C++ Basic Book",
+        "Author":"Barry A. Burd",
+        "title":"Beginning Programming with Java for Dummies, 5ed",
+        "price":0,
+        "category":"free",
+        "image":"/public/images/Java.webp"
+    },
+    {
+        "id":6,
+        "name":"C Basic Book",
+        "Author":"Barry A. Burd",
+        "title":"Beginning Programming with Java for Dummies, 5ed",
+        "price":0,
+        "category":"paid",
+        "image":"/public/images/Java.webp"
+    },
+    {
+        "id":7,
+        "name":"DSA Basic Book",
+        "Author":"Barry A. Burd",
+        "title":"Beginning Programming with Java for Dummies, 5ed",
+        "price":0,
+        "category":"free",
+        "image":"/public/images/Java.webp"
+    },
+    {
+        "id":8,
+        "name":"React Basic Book",
+        "Author":"Barry A. Burd",
+        "title":"Beginning Programming with Java for Dummies, 5ed",
+        "price":0,
+        "category":"paid",
+        "image":"/public/images/Java.webp"
+    },
+    {
+        "id":9,
+        "name":"HTML Basic Book",
+        "Author":"Barry A. Burd",
+        "title":"Beginning Programming with Java for Dummies, 5ed",
+        "price":200,
+        "category":"paid",
+        "image":"/public/images/Java.webp"
+    }
+]
